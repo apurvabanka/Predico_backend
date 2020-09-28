@@ -1,0 +1,14 @@
+[
+{
+    "model": "calculator.result",
+    "pk": 1,
+    "fields": {
+        "operation": "sub",
+        "num1": 9,
+        "num2": 7,
+        "result": 2,
+        "result2": 0,
+        "result3": 0
+    }
+}
+]

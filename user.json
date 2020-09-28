@@ -1,0 +1,38 @@
+[
+{
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$JchvxrMTwCvN$qeC4H2DAJjz+IfnPu4XfQ5q8v5y7ZjeJ3zlE/Akjd5Y=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "apurva",
+        "first_name": "",
+        "last_name": "",
+        "email": "abc@abcde.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-03-12T06:56:33.860Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$180000$OAh2YiNjqcHc$uOudJSNHvGvJZCWhpDuNARzjT+3LSqgas6+Pkn26Ae0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "apurv",
+        "first_name": "",
+        "last_name": "",
+        "email": "abc@abcde12.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-03-12T06:56:45.293Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
